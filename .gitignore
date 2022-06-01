@@ -1,0 +1,8 @@
+other/
+.idea/
+.vscode/
+logs/
+./captura-backup
+captura-backup.exe
+dev.ini
+configs-dev/
